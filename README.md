@@ -9,8 +9,9 @@ This is done by calculating:
 
 center = FLOOR ((left + right) / 2)
 
-mergeSort(array, left, center)
-mergeSort(array, center+1, left)
+* mergeSort(array, left, center)
+
+* mergeSort(array, center+1, left)
 
 When you drill down to each individual value, we return them as an array.
 
