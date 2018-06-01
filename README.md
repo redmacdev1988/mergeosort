@@ -27,3 +27,14 @@ It takes two arrays, and
 
 3) When one of the array reaches it end, we check to see if the other index
 have not reached the end. If it has not, we simply concatenate the rest of that array onto our finalArray.
+
+
+Run Time
+
+Worst case: O(n log n)
+Best case: O(n log n)
+Average: O(n log n)
+
+Auxiliary Space: Θ(n)
+Stable
+Often best choice for sorting a linked list
